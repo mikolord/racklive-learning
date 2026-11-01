@@ -6,12 +6,27 @@
    "id": "ip-trainer",
    "title": "Одна ли сеть?",
    "description": "Тренажёр-игра: по двум IP-адресам и маске понять, в одной ли они сети. Десять верных ответов подряд — отметка.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "author": "Rack Live",
    "tag": "game",
    "icon": "icon.svg",
    "new": false,
    "files": [
+    {
+     "name": "icon-180.png",
+     "size": 3453,
+     "sha256": "b10571e9ed660b8bdfd39440d68e074fe86e24dd4f31ad7e7fec0f49ab72eeaf"
+    },
+    {
+     "name": "icon-192.png",
+     "size": 7478,
+     "sha256": "766035de7d748bbf722f8376786549dbd1be22bb0f9ff7b25d55c569cc304b7a"
+    },
+    {
+     "name": "icon-512.png",
+     "size": 11957,
+     "sha256": "67ee3993916a9dd8e6f7b6dc635630aea3262dbc0b522d85f86728ba2c33d5f1"
+    },
     {
      "name": "icon.svg",
      "size": 290,
@@ -25,7 +40,7 @@
     {
      "name": "module.json",
      "size": 366,
-     "sha256": "11e025baaee3558ee04a6c670b60e452418a05ddef2877a2134becbda25102a5"
+     "sha256": "5b79e52b2c829daf4cc6a71f096ef39c5054a0d083fc5d20986d906d84cc3b44"
     }
    ]
   }
